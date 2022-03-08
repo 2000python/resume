@@ -49,7 +49,7 @@
   > 技术栈：
   >
   > * 前台：React + Mobx + Material-UI
-  > * 中台：egg.js 
+  > * 中台：egg.js
   > * 后台: MySQL + COS + AntD
 
 - **项目详情** :这是我现在在做的一个个人项目，之前使用了服务端渲染(Next.js)，并且React组件使用了class语法编写，过年之后重构，更改了页面UI，页面使用React来做，React组件都用函数式组件，并未使用服务端渲染，使用Mobx做状态管理(刚开始并未使用)，因为AntD有全局样式污染，且项目的页面设计风格并不与AntD的设计规范相符，所以用了Material-UI。egg做中间件，使用egg将自己搜集的API或者自己做的API整合起来供前台使用，并且用它操作数据库，数据库用MySQL，后台页面用AntD写。整个项目使用了ES6的最新语法，使用COS进行媒体资源存储。
