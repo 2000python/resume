@@ -46,7 +46,7 @@
 - **项目描述** : 我的博客（http://rainsin.ticp.io）。
 - **项目仓库** ：https://github.com/2000python/rainsin_notion
 - 
-  技术栈：
+  **技术栈：**
   >
   > * 前台：React + Mobx + Material-UI
   > * 中台：egg.js
